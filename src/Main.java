@@ -4,6 +4,7 @@ public class Main {
         task2();
         task3();
         task4();
+        task5();
     }
 
     public static void task1() {
@@ -46,5 +47,8 @@ public class Main {
         System.out.println("friend=" + friend);
         friend = friend / 7;
         System.out.println("friend=" + friend);
+    }
+    public static void task5() {
+        System.out.println("Задача 5");
     }
 }
