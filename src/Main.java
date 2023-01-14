@@ -6,7 +6,7 @@ public class Main {
         task4();
         task5();
         task6();
-        //task7();
+        task7();
         //task8();
     }
 
@@ -70,6 +70,14 @@ public class Main {
         System.out.println("Общий вес боксеров " + totalWeight + " кг.");
         var differenceInWeight = weightFirstBoxer - weightSecondBoxer;
         System.out.println("Разница в весе " + differenceInWeight + " кг.");
-
+    }
+        public static void task7() {
+            System.out.println("Задача 7");
+            var weightFirstBoxer = 78.2;
+            var weightSecondBoxer = 82.7;
+            var differenceInWeight1 = weightSecondBoxer - weightFirstBoxer;
+            System.out.println("Разница в весе " + differenceInWeight1 + " кг.");
+            var differenceInWeight2 = weightSecondBoxer % weightFirstBoxer;
+            System.out.println("Разница в весе " + differenceInWeight2 + " кг.");
     }
 }
