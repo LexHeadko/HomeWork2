@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="26785cb0-f80d-44d7-9d7c-ebeb3b0336c2" name="Changes" comment="" />
+    <list default="true" id="26785cb0-f80d-44d7-9d7c-ebeb3b0336c2" name="Changes" comment="Задача 7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KJT4fdjIDeMrwbQJR20H7DwBgg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,10 +34,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HomeWork2" />
@@ -34,6 +59,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -45,8 +71,93 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673691502100</updated>
-      <workItem from="1673691502118" duration="1000" />
+      <workItem from="1673691502118" duration="6999000" />
     </task>
+    <task id="LOCAL-00001" summary="Первый коммит!">
+      <created>1673691713005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673691713005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Задача 1">
+      <created>1673693333514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673693333514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задача 2">
+      <created>1673694710690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673694710690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задача 2">
+      <created>1673695059005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673695059005</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задача 3">
+      <created>1673695197620</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673695197620</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Задача 3">
+      <created>1673695582300</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673695582300</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Задача 4">
+      <created>1673695675753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673695675753</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Задача 5">
+      <created>1673695893315</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673695893315</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Задача 6">
+      <created>1673697594540</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673697594540</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Задача 7">
+      <created>1673697942686</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673697942686</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый коммит!" />
+    <MESSAGE value="Задача 1" />
+    <MESSAGE value="Задача 2" />
+    <MESSAGE value="Задача 3" />
+    <MESSAGE value="Задача 4" />
+    <MESSAGE value="Задача 5" />
+    <MESSAGE value="Задача 6" />
+    <MESSAGE value="Задача 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 7" />
   </component>
 </project>
